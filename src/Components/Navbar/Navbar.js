@@ -8,7 +8,7 @@ const NavBar = ()=>{
         <ul className='menuItems'>
             <li>Consolas</li>
             <li>VideoJuegos</li>
-            <li>Contacto</li>
+            <li>Contact</li>
         </ul>
     </nav>
     )
